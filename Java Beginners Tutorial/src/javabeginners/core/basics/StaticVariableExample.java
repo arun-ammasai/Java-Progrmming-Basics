@@ -11,7 +11,7 @@ public class StaticVariableExample {
 		System.out.println(obj3.myClassVaraible);
 		// myClassVaraible = 25; // this will impact all objects 
 		obj1.myClassVaraible = 25;
-		myClassVaraible = 25 ;
+		myClassVaraible = 35 ;
 		
 		System.out.println(obj1.myClassVaraible);
 		System.out.println(obj2.myClassVaraible);
