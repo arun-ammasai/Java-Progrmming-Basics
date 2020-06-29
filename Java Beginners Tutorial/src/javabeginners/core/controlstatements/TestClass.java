@@ -26,7 +26,7 @@ public class TestClass {
 			System.out.println("Thursday");
 			break;
 		case 6:
-			System.out.println("Fridat");
+			System.out.println("Friday");
 			break;
 		case 7:
 			System.out.println("Saterday");
