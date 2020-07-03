@@ -2,8 +2,11 @@ package javabeginners.core.basics;
 
 public class Test {
 	public static void main(String[] args) {
-		for (int i = 1; i <= 10; i++) {
-			System.out.println(i);
+		
+		if(10>=25) {
+			
+		}else if(10 <=5) {
+			
 		}
 	}
 }

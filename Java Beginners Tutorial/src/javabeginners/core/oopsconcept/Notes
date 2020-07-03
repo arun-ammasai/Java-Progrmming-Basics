@@ -1,0 +1,58 @@
+OOPs 
+====
+
+1. Object
+2. Class
+3. Constructor
+4. OOP Features
+	Abstraction
+	Encapsulation
+	Inheritance
+	Polymorphism
+5. Abstract Class and Methods
+6. Interface
+
+Class :
+======
+	1. Methods [data methods]
+	2. Variable [data members]
+	3. Construtors
+	4. Blocks
+	5. Nested class
+	6. Interface
+	
+		Methods :
+			-> Code Reusability
+			-> Code Optimization
+			
+			
+Construtors
+	--> its like a method but not method
+	--> will not return any value
+	--> if there is no constuctor which we are using default consturctor
+	--> We can create our own constructor which is paramaterized constructor
+	
+OOP Features
+	1. Abstraction
+	2. Encapsulation
+	3. Inheritance 
+	4. Polymorphism 
+	
+Abstraction
+	1. abstract class created using abstract keyword
+		--> class ClassName [normal one]
+		--> abstract class ClassName [abstract class]
+		
+	2. What is abstract --> hiding implementation or functionality from user
+	3. There are two ways we can achieve abstraction
+		1. Abstract class
+		2. Interface
+
+Abstract Rules
+
+	1. must be declared as abstract class  [abstract class ClassName]
+	2. can have abstract and non abstract method
+	3. you can't instantiate abstract class
+	4. can have constructor and static method
+	5. can have final method 
+		
