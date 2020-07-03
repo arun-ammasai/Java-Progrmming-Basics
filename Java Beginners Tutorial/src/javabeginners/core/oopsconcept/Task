@@ -1,0 +1,6 @@
+03 July
+======
+
+ 1. Crate abstract class for bird [method name is fly]
+ 2. create 2 bird and implement with Bird class
+ 3. then create a class to show the output
