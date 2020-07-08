@@ -6,5 +6,9 @@ public class Circle extends Shape {
 	void draw() {
 		System.out.println("Draw a Circle");
 	}
+	
+	void paintColor() {
+		System.out.println("Circle Red Color");
+	}
 
 }
