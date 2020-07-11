@@ -56,3 +56,10 @@ Abstract Rules
 	4. can have constructor and static method
 	5. can have final method 
 		
+Encapsulation
+
+	means binding object state and behavior
+	control over the data
+	data hiding
+	restriction 
+	
