@@ -4,3 +4,18 @@
  1. Crate abstract class for bird [method name is fly]
  2. create 2 bird and implement with Bird class
  3. then create a class to show the output
+ 
+ 13 July
+ =======
+ One Example For Single Inheritance
+ 	Parent Class :  Home --> room1 ,room2 and a variable called desc="Rent House"
+ 	Child Class extends Parent Class : myroom
+ 	DemoClass extends Childclass --> call all the methods and variable 
+ 	
+ One Example For Multilevel Inheritance
+ 
+ 	Parent Class : ParentClass --> method1 and method2
+ 	child class A exte ParaentClass --> methodA
+ 	child class B exte A --> methodB
+ 	child class C exte B --> methodC
+ 	DemoClass exte C --> call all the method
