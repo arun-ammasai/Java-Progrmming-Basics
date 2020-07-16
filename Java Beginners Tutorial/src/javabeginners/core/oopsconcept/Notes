@@ -66,3 +66,21 @@ Encapsulation
 Inheritance
 	1. Sharing the properties 
 	2. Reusability
+	
+Polymorphism
+
+Poly - Many
+Morphy - Form
+
+That allows us to perform a singl action in different ways 
+[Single method but works different for each call]
+
+
+1. Method Overloading - Static Binding [Compile Time]
+2. Method Overridding - Dynamic Binding [Runtime]
+
+Method Overloading 
+	Method Name is same 
+	By changing number arguments
+	by changing the type of data 
+
