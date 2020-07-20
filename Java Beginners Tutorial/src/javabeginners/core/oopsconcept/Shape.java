@@ -19,4 +19,5 @@ public abstract class Shape {
 	static void notModify() { // you can only use not allowed to modify
 		System.out.println("Message from Static Method");
 	}
+	
 }

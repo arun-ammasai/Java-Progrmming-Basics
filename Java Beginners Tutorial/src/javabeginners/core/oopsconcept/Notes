@@ -54,7 +54,13 @@ Abstract Rules
 	2. can have abstract and non abstract method
 	3. you can't instantiate abstract class
 	4. can have constructor and static method
-	5. can have final method 
+	5. can have final method
+
+Interface Rules
+	1. We can have only method declaration 
+	2. class ClassName --> interface InterfaceName
+	3. by default all method abstract
+	4. by default all variable are final
 		
 Encapsulation
 
