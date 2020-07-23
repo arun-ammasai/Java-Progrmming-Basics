@@ -1,15 +1,25 @@
 package javabeginners.core.basics;
 
-public class Test {
+abstract class A{
+	abstract void firstMethod();
 	
-	static int x;
+	void secondMethod() {
+		System.out.println("Second Method");
+		firstMethod();
+	}
+}
+public class Test extends A{
+
+	@Override
+	void firstMethod() {
+		System.out.println("Message From First Method");		
+	}
+	
 	public static void main(String[] args) {
-		Test t= new Test();
-		t.add();
-		int y=10;
-		System.out.println(x);
+		Test t = new Test();
+		//t.firstMethod();
+		t.secondMethod();
 	}
-	private void add() {
-		System.out.println("Message From Add Method");
-	}
+	
+	
 }
